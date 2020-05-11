@@ -1,0 +1,12 @@
+p { font-family:  Verdana, sans-serif; }
+h1{ font-family: 'Marko One', serif, Georgia; font-size: 1.5em;/* 1.5x16=24px*/  }
+h2{ font-size: 1em;}
+span.price{ font-family: Georgia;}
+
+h1{ color: #993399; text-align: center;}
+h1~p{color: #D3D3D3; text-align: center;}
+span.label{color: #808080;  font-weight: bold;}
+h2{color: #CC6600}
+h3{color: #A0522D}
+h4{color: #FF6347}
+
