@@ -1,5 +1,6 @@
 body { 
     font-family:  Verdana, sans-serif;
+    background-color:  #D2DC9D;
 }
 h1{ 
     font-family: 'Marko One', serif, Georgia; 
@@ -24,6 +25,8 @@ span.price{
 }
 #div1 {
     text-align: center;
+    background-color: white;
+    opacity: 0.5;
 }
 span.label{
     color: #808080;  
@@ -52,6 +55,11 @@ li.c2{list-style: circle; }
 li.c3{list-style-position: inside;}
 li.c4{ 
     font-size: xx-large;
-    list-style-image: url(/tp2Input/images/bull.PNG);}
+    list-style-image: url(/tp2Input/images/bull.PNG);
+}
 
+
+#appetizers a:link{ color: #993399; }
+#appetizers a:hover{color: #C700F2; background-color: #FFC0CB ; opacity: 1;}
+#appetizers a:visited { color: #937393; }
 
