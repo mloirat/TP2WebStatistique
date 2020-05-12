@@ -58,8 +58,8 @@ li.c4{
     list-style-image: url(/tp2Input/images/bull.PNG);
 }
 
-
-#appetizers a:link{ color: #993399; }
-#appetizers a:hover{color: #C700F2; background-color: #FFC0CB ; opacity: 1;}
-#appetizers a:visited { color: #937393; }
+#appetizers ul li a{text-decoration: none;}
+#appetizers ul li a:link{ color: #993399; }
+#appetizers ul li a:hover{ color: #C700F2; background-color: #FFC0CB; }
+#appetizers ul li a:visited { color: #937393; }
 
