@@ -22,7 +22,7 @@ h2{
     text-transform: uppercase;
     letter-spacing: 8px;
 }
-#appetizers ul{list-style-type: none;}
+
 span.price{ 
     font-family: Georgia; 
     font-style: italic; 
@@ -66,7 +66,20 @@ li.c4{
     font-size: xx-large;
     list-style-image: url(/tp2Input/images/bull.PNG);
 }
-#appetizers ul li a{text-decoration: none;}
-#appetizers ul li a:link{ color: #993399; }
-#appetizers ul li a:hover{ color: #C700F2; background-color: #FFC0CB; }
-#appetizers ul li a:visited { color: #937393; }
+a {
+    text-decoration: none;
+}
+a:link {
+    color: #993399;
+}
+a:visited {
+    color: #937393;
+}
+a:hover {
+    color: #C700F2;
+    background-color: #FFC0CB;
+}
+a:active {
+    color: #f0f;
+    background-color: #FFFFFF;
+}
